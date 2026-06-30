@@ -1,16 +1,24 @@
-## Hi there 👋
+# Cristian Rossett Liotto
+Desenvolvedor de software em transição para Segurança da Informação, com foco em análise técnica, malware analysis, fundamentos de pentest, Windows Internals e preparação para DCPT.
 
-<!--
-**cristianliottorossett/cristianliottorossett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente trabalho como Desenvolvedor Delphi, atuando na manutenção e evolução de sistemas corporativos ligados à gestão pública, com foco em regras de negócio complexas, banco de dados, análise de erros, debugging e sustentação de aplicações.
 
-Here are some ideas to get you started:
+Minha trajetória em segurança começou de forma mais prática durante o Trabalho de Conclusão de Curso, onde realizei análise de malware em ambiente controlado e desenvolvi um protótipo acadêmico de EDR para observar e detectar comportamentos maliciosos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de Interesse
+* Segurança da Informação
+* Malware Analysis
+* Blue Team
+* Threat Detection
+* Windows Internals
+* Análise de Vulnerabilidades
+* Pentest
+* Desenvolvimento de Software
+* Engenharia Reversa
+
+# Tecnologias e Ferramentas
+**Desenvolvimento**: Delphi, Java, C/C++, SQL, Git, Bitbucket
+**Banco de dados**: Firebird, PostgreSQL, Oracle, PL/SQL
+**Segurança**: Nmap, Wireshark, tcpdump, dirb, Metasploit, YARA
+**Análise e baixo nível**: x64dbg, Ghidra, Visual Studio, Windows SDK
+**Infraestrutura**: Linux, Docker, Kubernetes, AWS
