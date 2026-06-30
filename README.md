@@ -18,9 +18,13 @@ Minha trajetória em segurança começou de forma mais prática durante o Trabal
 
 # Tecnologias e Ferramentas
 **Desenvolvimento**: Delphi, Java, C/C++, SQL, Git, Bitbucket
+
 **Banco de dados**: Firebird, PostgreSQL, Oracle, PL/SQL
+
 **Segurança**: Nmap, Wireshark, tcpdump, dirb, Metasploit, YARA
+
 **Análise e baixo nível**: x64dbg, Ghidra, Visual Studio, Windows SDK
+
 **Infraestrutura**: Linux, Docker, Kubernetes, AWS
 
 ## Objetivo
