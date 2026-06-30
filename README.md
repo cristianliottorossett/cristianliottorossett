@@ -22,3 +22,7 @@ Minha trajetória em segurança começou de forma mais prática durante o Trabal
 **Segurança**: Nmap, Wireshark, tcpdump, dirb, Metasploit, YARA
 **Análise e baixo nível**: x64dbg, Ghidra, Visual Studio, Windows SDK
 **Infraestrutura**: Linux, Docker, Kubernetes, AWS
+
+## Objetivo
+
+Busco evoluir na área de Segurança da Informação, conectando minha experiência em desenvolvimento de software com estudos práticos em análise de vulnerabilidades, malware analysis, Blue Team, AppSec e segurança ofensiva em ambientes controlados.
